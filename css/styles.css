@@ -1,0 +1,28 @@
+/* selector {
+  property: value;
+} */
+
+body {
+  background-color: #EAF6F6;
+}
+
+h1, h3 {
+  color: #66BFBF
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  /* border-style: hidden; */
+  /* border-style: dotted; */
+  /* border-style: dashed; */
+  /* border-style: solid; */
+  /* border-style: double; */
+  /* border-style: groove; */
+  /* border-style: ridge; */
+  /* border-style: inset; */
+  /* border-style: outset; */
+}
